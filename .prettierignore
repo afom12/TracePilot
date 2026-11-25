@@ -1,0 +1,8 @@
+node_modules/
+app/
+dist/
+playwright-report/
+test-results/
+.playwright-mcp/
+playwright/.auth/
+package-lock.json
